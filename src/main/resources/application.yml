@@ -3,11 +3,19 @@ spring:
     name: zero-code-x-backend
   profiles:
     active: local
+  # mysql
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/zero_code_x
+    username: root
+    password: 1234
+
 
 server:
   port: 8123
   servlet:
     context-path: /api
+
 
 # springdoc-openapi
 springdoc:
