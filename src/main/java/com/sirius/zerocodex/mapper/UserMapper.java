@@ -1,7 +1,7 @@
 package com.sirius.zerocodex.mapper;
 
 import com.mybatisflex.core.BaseMapper;
-import com.sirius.zerocodex.model.po.User;
+import com.sirius.zerocodex.model.entity.User;
 
 /**
  * 用户 映射层。

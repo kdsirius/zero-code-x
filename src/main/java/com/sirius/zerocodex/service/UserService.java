@@ -3,7 +3,7 @@ package com.sirius.zerocodex.service;
 import com.mybatisflex.core.query.QueryWrapper;
 import com.mybatisflex.core.service.IService;
 import com.sirius.zerocodex.model.dto.user.UserQueryRequest;
-import com.sirius.zerocodex.model.po.User;
+import com.sirius.zerocodex.model.entity.User;
 import com.sirius.zerocodex.model.vo.LoginUserVO;
 import com.sirius.zerocodex.model.vo.UserVO;
 import jakarta.servlet.http.HttpServletRequest;

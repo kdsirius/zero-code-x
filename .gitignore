@@ -32,5 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-### 忽略本地环境 ###
-**/application-local.yml
+### CUSTOM ###
+application-local.yml
+tmp/

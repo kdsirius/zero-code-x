@@ -4,7 +4,7 @@ import com.sirius.zerocodex.annotation.AuthCheck;
 import com.sirius.zerocodex.exception.BusinessException;
 import com.sirius.zerocodex.exception.ErrorCode;
 import com.sirius.zerocodex.model.enums.UserRoleEnum;
-import com.sirius.zerocodex.model.po.User;
+import com.sirius.zerocodex.model.entity.User;
 import com.sirius.zerocodex.service.UserService;
 import jakarta.annotation.Resource;
 import jakarta.servlet.http.HttpServletRequest;

@@ -1,4 +1,4 @@
-package com.sirius.zerocodex.model.po;
+package com.sirius.zerocodex.model.entity;
 
 import com.mybatisflex.annotation.Column;
 import com.mybatisflex.annotation.Id;

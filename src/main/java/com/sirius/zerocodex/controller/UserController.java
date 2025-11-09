@@ -10,7 +10,7 @@ import com.sirius.zerocodex.constants.UserConstant;
 import com.sirius.zerocodex.exception.ErrorCode;
 import com.sirius.zerocodex.exception.ThrowUtils;
 import com.sirius.zerocodex.model.dto.user.*;
-import com.sirius.zerocodex.model.po.User;
+import com.sirius.zerocodex.model.entity.User;
 import com.sirius.zerocodex.model.vo.LoginUserVO;
 import com.sirius.zerocodex.model.vo.UserVO;
 import com.sirius.zerocodex.service.UserService;
